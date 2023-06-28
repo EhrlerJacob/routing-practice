@@ -1,0 +1,1 @@
+This project uses vite to create a react app, and is a practice for using routes in React. I am also using useParams to add in different words and colors to the content displayed by writing them within the url itself. 
